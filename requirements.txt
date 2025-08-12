@@ -4,4 +4,4 @@ passlib
 pymongo
 python-multipart
 bcrypt
-
+uvicorn
