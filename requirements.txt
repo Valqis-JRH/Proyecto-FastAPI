@@ -1,0 +1,11 @@
+"""
+que requiere nuestro proyecto para poder funcionar
+Aca se mete todas las dependencias que hemos hecho a lo largo del curso
+"""
+fastapi
+python-jose
+passlib
+pymongo
+python-multipart
+
+
