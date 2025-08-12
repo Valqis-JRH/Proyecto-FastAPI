@@ -1,0 +1,11 @@
+200 la cosa ha ido bien
+pero si devuelve 200 pero en realidad no ha hecho lo que deberia hacer
+aquí es donde entra a aprender los codigos http
+
+Para información de respuesta: (100-199)
+Para exito de respuesta: (200-299)
+Para redirección de mensajes: (300-399)
+Si hay algun tipo de error (400-499)
+Si ha fallado el servidor (500-599)
+
+Primero le hago caso al codigo más que el texto
